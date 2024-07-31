@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.d176f44b.css",
+    "main.js": "/MyPortfolio/static/js/main.9ab2c728.js",
+    "static/js/453.ace21015.chunk.js": "/MyPortfolio/static/js/453.ace21015.chunk.js",
+    "static/media/jooyajooyagroup.png": "/MyPortfolio/static/media/jooyajooyagroup.ece29df3a2f4aef9bca4.png",
+    "static/media/jooyajooyamain.png": "/MyPortfolio/static/media/jooyajooyamain.596bdd235547ab0e0614.png",
+    "static/media/jooyajooyadetail.png": "/MyPortfolio/static/media/jooyajooyadetail.d7a2a868fd9b1b89da2c.png",
+    "static/media/imacFirst.png": "/MyPortfolio/static/media/imacFirst.cfc72dda9c95b5e1b0fd.png",
+    "static/media/gelsgroup2.png": "/MyPortfolio/static/media/gelsgroup2.a98ead4efbf4aa035b9d.png",
+    "static/media/gelsmain.png": "/MyPortfolio/static/media/gelsmain.d14602f73ad2eec0fe83.png",
+    "static/media/turtlelearngroup3.png": "/MyPortfolio/static/media/turtlelearngroup3.5939162b8123d7bcdd0f.png",
+    "static/media/turtlelearnmain.png": "/MyPortfolio/static/media/turtlelearnmain.aea9f6b18ccdb36a4ee0.png",
+    "static/media/myphoto.JPG": "/MyPortfolio/static/media/myphoto.500a85d0c8c8a7a21173.JPG",
+    "static/media/gelsgroup3.png": "/MyPortfolio/static/media/gelsgroup3.5f1ba6fe12f8a6f11707.png",
+    "static/media/figmaIcon.png": "/MyPortfolio/static/media/figmaIcon.e3eda632293ac2143a26.png",
+    "static/media/gelsgroup1.png": "/MyPortfolio/static/media/gelsgroup1.28e54712c0c89e3550fc.png",
+    "static/media/gelsproject.jpg": "/MyPortfolio/static/media/gelsproject.3c07f31619a87716ee3a.jpg",
+    "static/media/turtlelearngroup1.png": "/MyPortfolio/static/media/turtlelearngroup1.a7b1bce04757dec6a9b0.png",
+    "static/media/turtlelearngroup2.png": "/MyPortfolio/static/media/turtlelearngroup2.6606baabf248ab3b61a6.png",
+    "static/media/jooyajooya.png": "/MyPortfolio/static/media/jooyajooya.57330860c0e720f6f4a8.png",
+    "static/media/logoIcon.png": "/MyPortfolio/static/media/logoIcon.6a847693d64485e529c8.png",
+    "static/media/turtlelearnlogo.png": "/MyPortfolio/static/media/turtlelearnlogo.9a99661bb5edcb6e6f2c.png",
+    "static/media/reactIcon.png": "/MyPortfolio/static/media/reactIcon.0e56350af88eddb7ba18.png",
+    "static/media/gelslogo.png": "/MyPortfolio/static/media/gelslogo.dd70cb9965b47707df19.png",
+    "static/media/htmlIcon.png": "/MyPortfolio/static/media/htmlIcon.a92a549a591f4acb527a.png",
+    "static/media/cssIcon.png": "/MyPortfolio/static/media/cssIcon.02d225c7df0b28341d8d.png",
+    "static/media/vscodeIcon.png": "/MyPortfolio/static/media/vscodeIcon.939389db6d79f009ee5f.png",
+    "static/media/javascriptIcon.png": "/MyPortfolio/static/media/javascriptIcon.3dfb665e058d08c99f28.png",
+    "static/media/indesignIcon.png": "/MyPortfolio/static/media/indesignIcon.d630b298e5bf997a6193.png",
+    "static/media/gitIcon.png": "/MyPortfolio/static/media/gitIcon.7d664489ed331806ddc8.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.d176f44b.css.map": "/MyPortfolio/static/css/main.d176f44b.css.map",
+    "main.9ab2c728.js.map": "/MyPortfolio/static/js/main.9ab2c728.js.map",
+    "453.ace21015.chunk.js.map": "/MyPortfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d176f44b.css",
+    "static/js/main.9ab2c728.js"
+  ]
+}
